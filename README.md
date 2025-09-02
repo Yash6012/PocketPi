@@ -100,4 +100,4 @@ You can monitor CPU, memory, and network usage directly from the OMV dashboard.
 - Multi-user authentication with permissions
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](path/to/file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
