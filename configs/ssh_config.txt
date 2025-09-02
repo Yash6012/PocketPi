@@ -1,0 +1,8 @@
+# SSH Configuration Notes
+
+Default login: pi/raspberry
+Change password after first login: SuperSecretPassword
+
+To enable key-based login:
+1. Generate key on client: ssh-keygen
+2. Copy key: ssh-copy-id pi@<pi-ip>
