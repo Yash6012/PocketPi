@@ -2,6 +2,17 @@
 
 A portable, low-cost Network Attached Storage (NAS) system built using a Raspberry Pi 2 Model B and OpenMediaVault. Perfect for local file sharing, backups, and home lab experimentation.
 
+## 📦 Tools & Components
+| Component                    | Description                                  |
+|------------------------------|----------------------------------------------|
+| 🧠 Raspberry Pi 2 Model B v1 | The main controller                          |
+| 💾 SD Card (8GB or more)     | Storage for OS and OMV                       |
+| 🔌 Power Supply              | Micro-USB adapter for powering the Pi        |
+| 🌐 Ethernet Cable            | For network access via LAN                   |
+| 📱 USB Drive / NVMe SSD      | For NAS storage (via USB adapter)            |
+| 🌍 Internet Connection       | Required for installation and updates        |
+
+
 ![PocketPi Hardware](images/readme/Pi-Hardware.png)
 
 ---
